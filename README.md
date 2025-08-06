@@ -25,7 +25,6 @@ This is a console-based Java application designed to manage student records thro
 - Created a `Student` class with fields: `id`, `name`, and `marks`.  
 - Used `ArrayList<Student>` to manage records in memory.  
 - Applied `Scanner` for reading user input from the console.  
-- Implemented robust input validation and exception handling.  
 - Used `Iterator` for safely deleting a student from the list.
 
 
@@ -33,7 +32,7 @@ This is a console-based Java application designed to manage student records thro
 
  Run the exported JAR file:
 
-java -jar StudentRecordSystem.jar
+java -jar StudentRecordManagementSystem.jar
 
 
 ##  Author
